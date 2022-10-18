@@ -11,7 +11,7 @@
 	</parent>
 	<groupId>com.techmaster</groupId>
 	<artifactId>hello-world-example</artifactId>
-	<version>1.1.6</version>
+	<version>1.1.7</version>
 	<name>hello-world-example</name>
 	<description>Demo project for Spring Boot</description>
 	<url>http://maven.apache.org</url>
