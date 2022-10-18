@@ -27,7 +27,7 @@
         "assets": [
           {
             "name": "Jar file",
-            "path": "**/*.jar"
+            "path": "target/*.jar"
           }
         ]
       }
