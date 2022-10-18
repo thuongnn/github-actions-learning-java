@@ -1,5 +1,12 @@
 # Semantic Versioning Changelog
 
+## [1.1.3](https://github.com/thuongnn/github-actions-learning-java/compare/v1.1.2...v1.1.3) (2022-10-18)
+
+
+### Bug Fixes
+
+* **pencil:** stop graphite breaking when too much pressure applied ([5ed42ed](https://github.com/thuongnn/github-actions-learning-java/commit/5ed42ed8942e92f16f3815f634faaa58798a0c2e))
+
 # [1.1.0](https://github.com/thuongnn/github-actions-learning-java/compare/v1.0.0...v1.1.0) (2022-10-18)
 
 
