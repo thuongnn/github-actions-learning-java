@@ -20,6 +20,17 @@
           "CHANGELOG.md"
         ]
       }
+    ],
+    [
+      "@semantic-release/github",
+      {
+        "assets": [
+          {
+            "name": "Jar file",
+            "path": "**/*.jar"
+          }
+        ]
+      }
     ]
   ]
 }
