@@ -16,8 +16,8 @@
       "@semantic-release/git",
       {
         "assets": [
-          "CHANGELOG.md",
-          "pom.xml"
+          "pom.xml",
+          "CHANGELOG.md"
         ]
       }
     ],
@@ -26,8 +26,8 @@
       {
         "assets": [
           {
-            "name": "demo",
-            "path": "target/**"
+            "name": "Jar file",
+            "path": "target/*.jar"
           }
         ]
       }
