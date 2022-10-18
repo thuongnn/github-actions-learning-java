@@ -1,5 +1,12 @@
 # Semantic Versioning Changelog
 
+# [1.3.0](https://github.com/thuongnn/github-actions-learning-java/compare/v1.2.0...v1.3.0) (2022-10-18)
+
+
+### Features
+
+* **pencil:** add 'graphiteWidth' option ([a6bda17](https://github.com/thuongnn/github-actions-learning-java/commit/a6bda178d2790395b1e4bf8570f08d0d2c88299f))
+
 # [1.2.0](https://github.com/thuongnn/github-actions-learning-java/compare/v1.1.11...v1.2.0) (2022-10-18)
 
 
