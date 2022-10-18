@@ -1,5 +1,7 @@
 Example containerized java spring boot project
 ---
+
+
 ### Step 1. Generate java spring boot project
 Click here to open generate page: https://start.spring.io
 ![Generate](./images/task1-generate.png)
